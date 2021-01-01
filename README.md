@@ -53,11 +53,11 @@ GitHub : A website where you hold all your repositories.
 A way programmers track code changes
 
 ## Terms In Git
-Directory ->  folder
-Terminal or command line -> Interface/ text commands
-cd -> change directory
-Code Editors -> Word Processor for writing code
-Repository -> The folder place where your projects are stored or kept
+* Directory ->  folder
+* Terminal or command line -> Interface/ text commands
+* cd -> change directory
+* Code Editors -> Word Processor for writing code
+* Repository -> The folder place where your projects are stored or kept
 
 
 ##  Basic Git commmands
